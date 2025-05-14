@@ -18,7 +18,7 @@ A Laravel-based system designed to manage final year projects for university stu
 - **Messaging System**  
   Enables chatting between students and their supervisors within the platform.
 
-## 🧰 Tech Stack
+##🧰 Tech Stack
 
 - **Framework**: Laravel
 - **Language**: PHP
@@ -32,7 +32,7 @@ A Laravel-based system designed to manage final year projects for university stu
    ```bash
    git clone https://github.com/Jadowacu1/FYP-Laravel.git
    cd FYP-Laravel
-````
+   ````
 
 2. **Install PHP dependencies**
 
@@ -99,6 +99,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 Developed with ❤️ using Laravel.
-
-```
 
